@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Soumyakanta Sahoo
 
-🎯 I’m an aspiring **Full Stack Developer** skilled in **React**, **Python**, **Django**, and **FastAPI**.  
-💼 I’m actively learning and building real-world projects to become **job-ready by End of 2025** with a target salary of **15 LPA**.
-
+🎯 I’m an aspiring **Full Stack AI Engineer** skilled in **React**, **Python**, **Django**, and **FastAPI**.  
+💼 I’m actively learning and building real-world projects to become **job-ready by End of 2026**.
 ---
 
 ## 🛠 Tech Stack
